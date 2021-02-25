@@ -1,0 +1,133 @@
+Id,Label,timeset,infection,Phase,modularity_class,indegree,outdegree,Degree
+HNRNPR,Gene,,No,G2M,0,0,3,3
+CCAR1,Gene,,No,G2M,0,0,3,3
+DDX39A,Gene,,No,G2M,0,0,4,4
+SNRPB,Gene,,Yes,NA,0,0,3,3
+LSM5,Gene,,No,G2M,0,0,3,3
+HNRNPM,Gene,,No,G2M,0,0,3,3
+SFPQ,Gene,,No,G2M,0,0,5,5
+HNRNPH3,Gene,,No,G2M,0,0,3,3
+HNRNPA1,Gene,,No,G2M,0,0,3,3
+HNRNPA2B1,Gene,,No,G2M,0,0,3,3
+RBMX,Gene,,No,G2M,0,0,4,4
+PCLAF,Gene,,Yes,NA,3,0,4,4
+KPNA2,Gene,,No,G2M,3,0,1,1
+ORC6,Gene,,Yes,NA,3,0,6,6
+UBB,Gene,,No,G2M,1,0,12,12
+RAD21,Gene,,No,G2M,3,0,3,3
+CLSPN,Gene,,Yes,S,3,0,4,4
+CDC6,Gene,,No,S,3,0,8,8
+NASP,Gene,,Yes,NA,3,0,6,6
+UBE2T,Gene,,Yes,NA,3,0,3,3
+CDK1,Gene,,Yes,G2M,1,0,16,16
+TOP2A,Gene,,Yes,G2M,3,0,2,2
+FEN1,Gene,,Yes,S,3,0,5,5
+MCM7,Gene,,Yes,S,3,0,7,7
+HMGB2,Gene,,Yes,G2M,0,0,4,4
+HMGB3,Gene,,No,G2M,0,0,2,2
+HMGB1,Gene,,No,G2M,0,0,4,4
+HELLS,Gene,,Yes,S,3,0,1,1
+RFC2,Gene,,No,S,3,0,5,5
+DBF4,Gene,,No,G2M,3,0,6,6
+MCM3,Gene,,Yes,S,3,0,6,6
+MCM4,Gene,,Yes,S,3,0,6,6
+MCM5,Gene,,No,S,3,0,6,6
+MCM6,Gene,,No,S,3,0,6,6
+DCTPP1,Gene,,No,S,3,0,1,1
+PCNA,Gene,,Yes,S,3,0,4,4
+TYMS,Gene,,Yes,NA,3,0,4,4
+UNG,Gene,,No,S,3,0,3,3
+DUT,Gene,,Yes,S,3,0,3,3
+CDC25B,Gene,,No,G2M,1,0,4,4
+GSPT1,Gene,,No,G2M,3,0,4,4
+CCNB2,Gene,,No,G2M,1,0,3,3
+CCNB1,Gene,,No,G2M,1,0,12,12
+CEP70,Gene,,No,G2M,1,0,6,6
+EIF4EBP1,Gene,,Yes,NA,3,0,4,4
+UBE2C,Gene,,Yes,G2M,1,0,7,7
+UBE2S,Gene,,No,G2M,1,0,6,6
+FOXM1,Gene,,No,G2M,1,0,5,5
+TUBB,Gene,,Yes,NA,1,0,6,6
+DYNLL1,Gene,,No,G2M,1,0,6,6
+CKAP5,Gene,,No,G2M,1,0,6,6
+CCNA2,Gene,,No,G2M,1,0,4,4
+DCTN3,Gene,,No,G2M,1,0,6,6
+AURKA,Gene,,No,G2M,1,0,10,10
+TUBB4B,Gene,,Yes,G2M,1,0,6,6
+TACC3,Gene,,No,G2M,2,0,3,3
+CDKN3,Gene,,No,G2M,3,0,3,3
+BUB1B,Gene,,No,G2M,1,0,5,5
+CDC20,Gene,,No,G2M,1,0,5,5
+PSME2,Gene,,No,G2M,1,0,6,6
+ANAPC16,Gene,,No,G2M,1,0,5,5
+HMMR,Gene,,No,G2M,1,0,3,3
+TPX2,Gene,,No,G2M,1,0,6,6
+E2F1,Gene,,No,S,3,0,6,6
+BUB3,Gene,,No,G2M,1,0,5,5
+CENPE,Gene,,No,G2M,2,0,4,4
+CENPF,Gene,,Yes,G2M,1,0,4,4
+MAD2L1,Gene,,Yes,G2M,1,0,6,6
+H2AFX,Gene,,No,G2M,3,0,2,2
+NUCKS1,Gene,,No,G2M,3,0,2,2
+USP1,Gene,,Yes,NA,3,0,1,1
+ILF2,Gene,,No,G2M,0,0,3,3
+MRPL51,Gene,,No,G2M,3,0,1,1
+PTTG1,Gene,,No,G2M,1,0,2,2
+GTSE1,Gene,,No,G2M,1,0,3,3
+HSP90B1,Gene,,No,G2M,1,0,1,1
+SMC4,Gene,,No,G2M,2,0,2,2
+SMC2,Gene,,Yes,NA,2,0,1,1
+NUSAP1,Gene,,No,G2M,2,0,3,3
+KIF23,Gene,,No,G2M,2,0,2,2
+KNSTRN,Gene,,No,G2M,2,0,2,2
+NDC80,Gene,,No,G2M,2,0,4,4
+KIF18A,Gene,,No,G2M,2,0,2,2
+PRC1,Gene,,No,G2M,2,0,2,2
+NCAPD2,Gene,,No,G2M,2,0,1,1
+KIF11,Gene,,No,G2M,2,0,3,3
+MZT1,Gene,,No,G2M,2,0,2,2
+BIRC5,Gene,,No,G2M,2,0,4,4
+BTG1,Gene,,No,G2M,2,0,2,2
+DEPDC1,Gene,,No,G2M,0,0,1,1
+CKS2,Gene,,No,G2M,0,0,3,3
+ATAD2,Gene,,Yes,NA,0,0,2,2
+RUVBL2,Gene,,No,G2M,0,0,2,2
+KMT5A,Gene,,No,G2M,0,0,1,1
+HP1BP3,Gene,,No,G2M,0,0,1,1
+CKS1B,Gene,,Yes,G2M,0,0,3,3
+DEK,Gene,,Yes,NA,0,0,1,1
+H2AFZ,Gene,,Yes,G2M,0,0,1,1
+CKAP2,Gene,,No,G2M,0,0,1,1
+GPSM2,Gene,,No,G2M,2,0,3,3
+NUF2,Gene,,No,G2M,2,0,2,2
+STMN1,Gene,,No,G2M,2,0,2,2
+KIF4A,Gene,,No,G2M,2,0,2,2
+MKI67,Gene,,No,G2M,2,0,1,1
+KIF20B,Gene,,No,G2M,2,0,1,1
+mRNA processing,Pathway,,No,NA,0,11,0,11
+mRNA splicing_ via spliceosome,Pathway,,No,NA,0,11,0,11
+RNA splicing_ via transesterification reactions with bulged adenosine as nucleophile,Pathway,,No,NA,0,11,0,11
+DNA metabolic process,Pathway,,No,NA,3,28,0,28
+mitotic cell cycle phase transition,Pathway,,No,NA,1,29,0,29
+regulation of mitotic cell cycle phase transition,Pathway,,No,NA,1,23,0,23
+cellular response to DNA damage stimulus,Pathway,,No,NA,3,12,0,12
+DNA repair,Pathway,,No,NA,3,13,0,13
+cellular macromolecule biosynthetic process,Pathway,,No,NA,3,20,0,20
+regulation of G2/M transition of mitotic cell cycle,Pathway,,No,NA,1,14,0,14
+DNA replication,Pathway,,No,NA,3,15,0,15
+proteasome-mediated ubiquitin-dependent protein catabolic process,Pathway,,No,NA,1,15,0,15
+anaphase-promoting complex-dependent catabolic process,Pathway,,No,NA,1,13,0,13
+ubiquitin-dependent protein catabolic process,Pathway,,No,NA,1,11,0,11
+positive regulation of ubiquitin protein ligase activity,Pathway,,No,NA,1,11,0,11
+cell cycle G2/M phase transition,Pathway,,No,NA,1,14,0,14
+G2/M transition of mitotic cell cycle,Pathway,,No,NA,1,14,0,14
+G1/S transition of mitotic cell cycle,Pathway,,No,NA,3,15,0,15
+regulation of cell cycle G2/M phase transition,Pathway,,No,NA,1,12,0,12
+mitotic sister chromatid segregation,Pathway,,No,NA,2,11,0,11
+cell cycle G1/S phase transition,Pathway,,No,NA,3,13,0,13
+mitotic nuclear division,Pathway,,No,NA,2,11,0,11
+regulation of transcription_ DNA-templated,Pathway,,No,NA,0,23,0,23
+positive regulation of transcription_ DNA-templated,Pathway,,No,NA,0,14,0,14
+mitotic spindle organization,Pathway,,No,NA,2,14,0,14
+microtubule cytoskeleton organization involved in mitosis,Pathway,,No,NA,2,11,0,11
+regulation of mitotic cell cycle,Pathway,,No,NA,2,14,0,14
