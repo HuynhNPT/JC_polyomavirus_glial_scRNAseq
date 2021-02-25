@@ -5,8 +5,6 @@ Progressive multifocal leukoencephalopathy (PML) is a demyelinating infection of
 
 ## **Script**
 
-Script to generate figures and differential analysis results for Cui et al. 2020 </br>
-https://raw.githubusercontent.com/[user]/[repository]/[branch]/[filename.ext]
+[Script](https://raw.githack.com/HuynhNPT/JC_polyomavirus_glial_scRNAseq/main/main.html) to generate figures and differential analysis results for Cui et al. 2020 </br>
 
-Script to run WGCNA analysis on normalized data from scRNAseq </br>
-https://raw.githack.com/HuynhNPT/JC_polyomavirus_glial_scRNAseq/main/WGCNA.html
+[Script](https://raw.githack.com/HuynhNPT/JC_polyomavirus_glial_scRNAseq/main/WGCNA.html) to run WGCNA analysis on normalized data from scRNAseq </br>
