@@ -9,7 +9,7 @@ Follow the scripts below in order to generate results of this manuscript.
 
 2. [Perform integration]( https://rawcdn.githack.com/HuynhNPT/JC_polyomavirus_glial_scRNAseq/main/02_scVI_integration.html)</br>
 
-3. [Find differentially expressed markers for each cell cluster]( https://rawcdn.githack.com/HuynhNPT/JC_polyomavirus_glial_scRNAseq/main/03_cluster_markers.html)</br>
+3. Find differentially expressed markers for each cell cluster with `03_cluster_markers` </br>
 
 4. Run pySCENIC to derive the gene regulatory network with scripts `04_exportSCENIC.R`, [05]( https://rawcdn.githack.com/HuynhNPT/JC_polyomavirus_glial_scRNAseq/main/05_saveModules.html), [06]( https://rawcdn.githack.com/HuynhNPT/JC_polyomavirus_glial_scRNAseq/main/06_AUCCell.html)</br>
 
